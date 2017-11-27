@@ -1,3 +1,21 @@
+[Adblock Plus 2.0]
+! Checksum: jjX9HNjVRsya3UFhfLRP0g
+! Title: Easylist Whitelist Popup
+! Updated: 19 Jul 2017
+! This list expires after 6 days
+! License: http://creativecommons.org/licenses/by/3.0/
+! Homepage: http://www.fanboy.co.nz/
+! Reporting Issues: https://github.com/ryanbr/fanboy-adblock/issues
+!
+! Legal stuff (T&C's) .
+! In no event shall Fanboy List, or the list author be liable for any indirect, direct, punitive, special, incidental, or consequential damages whatsoever.
+! By downloading or viewing, or using this list, you are accepting these terms and the license.
+!
+!
+! Warning, will break on facebook-based comment sites and may also break on some facebook apps or games.
+!
+! Thirdparty Filters
+!
 @@/clickthrgh.asp?btag=*&aid=$popup,domain=casinobonus24.se
 @@/promoRedirect?*&zone=$popup,domain=casinobonus24.se|top5casinosites.co.uk
 @@/redirect.aspx?bid=$popup,domain=casinosonline.co.uk|onlinecasinos.co.uk|top5casinosites.co.uk
